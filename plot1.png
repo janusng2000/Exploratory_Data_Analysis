@@ -1,1 +1,0 @@
-https://cloud.githubusercontent.com/assets/12296834/9089188/768abbdc-3bc6-11e5-9631-ae79b42a2a2f.png
