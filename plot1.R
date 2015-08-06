@@ -1,6 +1,6 @@
 plot1 <- function(file="household_power_consumption.txt") {
         
-        power <- read.table("household_power_consumption.txt", header=T, sep=";")
+        power <- read.table(file, header=T, sep=";")
         power$Date <- as.Date(power$Date, format="%d/%m/%Y")
         
         df <- power[(power$Date=="2007-02-01") | (power$Date=="2007-02-02"),]
