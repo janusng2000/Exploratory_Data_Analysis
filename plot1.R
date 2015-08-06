@@ -1,4 +1,4 @@
-plot1 <- function("household_power_consumption.txt") {
+plot1 <- function(file="household_power_consumption.txt") {
         
         power <- read.table("household_power_consumption.txt", header=T, sep=";")
         power$Date <- as.Date(power$Date, format="%d/%m/%Y")
