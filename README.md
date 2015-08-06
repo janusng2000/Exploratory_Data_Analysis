@@ -54,7 +54,8 @@ Plot 1
 ExDataCP1Plot1.png
 Plot 2
 
-ExDataCP1Plot2.png
+![plot2](https://cloud.githubusercontent.com/assets/12296834/9089692/041a9556-3bc9-11e5-95c2-2202043c4227.png)
+
 Plot 3
 
 ![plot3](https://cloud.githubusercontent.com/assets/12296834/9104626/70ec5c0a-3c41-11e5-84d3-16cfcf8bd204.png)
