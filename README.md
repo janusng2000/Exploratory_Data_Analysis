@@ -60,7 +60,8 @@ Plot 3
 ExDataCP1Plot3.png
 Plot 4
 
-ExDataCP1Plot4.png
+![plot4](https://cloud.githubusercontent.com/assets/12296834/9104637/84f9163e-3c41-11e5-973e-1e627fef0398.png)
+
 Reviewing the Assignments
 
 Keep in mind this course is about exploratory graphs, understanding the data, and developing strategies. Here's a good quote from a swirl lesson about exploratory graphs: "They help us find patterns in data and understand its properties. They suggest modeling strategies and help to debug analyses. We DON'T use exploratory graphs to communicate results."
